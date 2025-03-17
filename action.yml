@@ -1,6 +1,5 @@
 name: 'Android Emulator Fleet'
-description:
-  'Run as many Android emulators as your automated app tests need in parallel.'
+description: 'Access hundreds of emulators in parallel under a second!'
 author: 'Limbar, Inc.'
 branding:
   icon: smartphone
